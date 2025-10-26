@@ -47,6 +47,3 @@ Configurable build via Gradle
 Author:
 Samreen
 Web and Mobile App Development, QUT
-
-Samreen Q.
-📚 Web and Mobile App Development, QUT
